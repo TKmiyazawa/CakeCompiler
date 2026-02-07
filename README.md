@@ -136,7 +136,7 @@ AIの推薦（すいせん）を上書きしてケーキを決めると、こん
 ターミナル（コマンドプロンプト）を開いて、こう入力します。
 
 ```bash
-git clone https://github.com/anthropics/cake-compiler.git
+git clone https://github.com/TKmiyazawa/CakeCompiler.git
 ```
 
 > 🤔 **Git って何？** ファイルの変更履歴（へんこうりれき）を記録してくれる「タイムマシン」みたいな道具です。プログラマーはほぼ全員使っています。興味があったら調べてみてね！
